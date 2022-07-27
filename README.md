@@ -6,3 +6,4 @@ It is a course project under the Pattern Recognition and Machine Learning Course
 
 # Brief Description:
 We have performed Sketch Recognition on 30 classes of objects using a CNN Network in tensorflow.
+
