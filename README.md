@@ -1,5 +1,5 @@
 # Deployed at:
-https://flamboyant-jepsen-6e91fc.netlify.app/
+https://62e19ef1c154f72a96cba3bd--thunderous-lamington-d3d7c4.netlify.app/
 
 # About the Project:
 It is a course project under the Pattern Recognition and Machine Learning Course in Semester 4.
