@@ -6,7 +6,7 @@ There are various models like the Google-Net Sketch model that have performed we
 -Updated  serverless APP deployed only using netlify with tensorflowJS model
 https://66afc6f77275d7ee219783f1--utkarshsketchclassification.netlify.app/
 
--old deployemnt (backend flask app on heroku and frontend on netlift). Backend got deleted due to herokus free to paid policy change.
+-old deployemnt (backend flask app on heroku and frontend on netlify). Backend got deleted due to heroku's free to paid policy change.
 https://62e19ef1c154f72a96cba3bd--thunderous-lamington-d3d7c4.netlify.app/
 
 # About the Project:
